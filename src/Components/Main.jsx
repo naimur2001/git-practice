@@ -6,10 +6,7 @@ const Main = () => {
 
     <div>
       <h1  className={`text-3xl text-center text-design ${styles.textDesign}`} >Practice Git command </h1>
-      <h1>Hello</h1>
-      <p>ok done </p>
-
-      <h1>I am Naimur Rahman,who are commited to learn Code till become a good coder.</h1>
+     
     </div>
 
   )
