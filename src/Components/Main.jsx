@@ -2,7 +2,7 @@ import React from 'react'
 
 const Main = () => {
   return (
-    <div>Main</div>
+   
     <h1  className={`text-3xl text-center text-design ${styles.textDesign}`} >Ok Mr Branch </h1>
   )
 }
