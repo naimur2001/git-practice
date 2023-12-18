@@ -1,14 +1,14 @@
-import React from 'react'
+import styles from './section1.module.css';
 
 const section1 = () => {
   return (
     <>
-    <div>section1</div>
-    <h1>I created a new Branch.
+    <div className={`${styles.header}`}>section1</div>
+    <p className={`${styles.para}`}>I created a new Branch.
       Name: Developer.
-    </h1>
+    </p>
     </>
   )
 }
 
-export default section1
+export default section1;
